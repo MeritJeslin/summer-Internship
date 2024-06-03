@@ -155,7 +155,7 @@ footer {
                 <button>Video</button>
             </div>
             <div class="portfolio-grid" style="display:flex; margin-left:300px;">
-                <div class="portfolio-item"><img src="C:\Users\merit\Downloads\im 1.png" width="300" height="300"></div>
+                <div class="portfolio-item"><img src="im 1.png" width="300" height="300"></div>
                 <div class="portfolio-item"><img src="C:\Users\merit\Downloads\im 2.webp" width="300" height="300"></div>
                 <div class="portfolio-item"><img src="C:\Users\merit\Downloads\im 3.png"  width="300" height="300"></div>
             </div>
